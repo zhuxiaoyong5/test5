@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jbi xmlns="http://java.sun.com/xml/ns/jbi" xmlns:tns="http://www.bpf.org/projects/test6" version="1.0">
+  <service-assembly>
+    <identification>
+      <name>test6</name>
+      <description>test6</description>
+    </identification>
+  </service-assembly>
+</jbi>
+
